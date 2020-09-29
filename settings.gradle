@@ -1,0 +1,4 @@
+include ':imagepicker'
+include ':ananas'
+include ':app'
+rootProject.name = "QrcodeReader"
